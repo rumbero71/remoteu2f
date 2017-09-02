@@ -1,5 +1,6 @@
 
 # remoteu2f - Use U2F for PAM remotely
+# fork in order to make remoteu2f-proxy work offline (no scripts loaded directly from google)
 
 [remoteu2f](http://blitiri.com.ar/p/remoteu2f) is a project that enables the
 use of a [FIDO U2F](https://www.yubico.com/applications/fido/) security key
